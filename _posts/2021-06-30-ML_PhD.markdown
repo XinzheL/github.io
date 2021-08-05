@@ -1,10 +1,25 @@
 ---
 layout: post
-title:  "A qualified Machine Learning PhD"
+title:  "A qualified Machine Learning PhD for Myself"
 date:   2021-06-30 22:21:49 +1000
 categories: ML
 permalink: /:title.html
 ---
+
+# What I am working for?
+"Using no way as way; having no limitation as limitation." 
+
+
+The following points are more of findings of myself rather than principles for my actions. Also, these points are not only for my research work but also for my point of views for my entire life.
+
+* Passion: I do not think there exists anything else which is more important than my passion. Because passion in the moment would support my pursuit to the perfect and meaningful work in contrast to ["bullshit jobs"](https://en.wikipedia.org/wiki/Bullshit_Jobs). 
+* Ecosystem and in order: Some experience of other researchers prove that sometimes just following rigid principles would work for some particular scenarios, e.g., applying their base work in blockchain into distributed machine learning. IMPORTANT: I do not think that the way of doning these works is not good. So far, I cannot adapt to this way.  For example, I love to study the mathematical principles which are able to explain why this modelling algorithm works. This is always the part other people would misunderstand me in a way that I would like to explore more theoretical stuff. The truth is that I just cannot handle my life, my knowledge in a messy way. I would feel frustrated and lost, lose my passion and cause much negative emotion. In contrast, having the thing organized and unified make me feel satisfied and happy.
+
+# How to deal with capital/paper pulishments?
+For the fundings/paper publishments, I have no passion for these, but I did realize that I have my responsibility for my supervisor and university who support me since the day I accepted the support. Therefore, after figuing out the minimum expectations from my funders, I would plan to complete these tasks as derivations of my mainstream tree rooted in my real passion. This not only makes myself happy to do the thing I want, but also let me do my "perfect" job.
+
+
+
 
 # Mind-changing
 ## Take criticisms seriously
